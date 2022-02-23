@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>routeConfigId</name>
+        <page display_value="Dept Request">6b43686ee9f1c11059d2f61abd56bba1</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 16:32:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>a743686e6ff1c110a09c83cf879d6ca1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>routeConfigId</sys_name>
+        <sys_package display_value="Dept Request" source="x_723649_dept_re_0">2cce58e61bf1c110af618623604bcb4d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">2cce58e61bf1c110af618623604bcb4d</sys_scope>
+        <sys_update_name>sys_ux_page_property_a743686e6ff1c110a09c83cf879d6ca1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 16:32:01</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_723649_dept_re_0.6b43686ee9f1c11059d2f61abd56bba1.root.routeConfigId</unique_name>
+        <value>76a302f10b131010a8b1c96237673a61</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=a743686e6ff1c110a09c83cf879d6ca1"/>
+</record_update>
