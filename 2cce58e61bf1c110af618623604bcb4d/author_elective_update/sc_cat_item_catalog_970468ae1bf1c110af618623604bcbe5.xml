@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Departmental Request">f283ec6e1bf1c110af618623604bcb37</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 16:35:16</sys_created_on>
+        <sys_id>970468ae1bf1c110af618623604bcbe5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Departmental Request</sys_name>
+        <sys_package display_value="Dept Request" source="x_723649_dept_re_0">2cce58e61bf1c110af618623604bcb4d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">2cce58e61bf1c110af618623604bcb4d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_970468ae1bf1c110af618623604bcbe5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 16:35:16</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dept Request">2cce58e61bf1c110af618623604bcb4d</application>
+        <file_path/>
+        <instance_id>8a09b0e4db4ba0105749cac50596195b</instance_id>
+        <instance_name>dev106993</instance_name>
+        <name>sc_cat_item_catalog_970468ae1bf1c110af618623604bcbe5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Departmental Request">f283ec6e1bf1c110af618623604bcb37</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-23 16:35:16</sys_created_on><sys_id>970468ae1bf1c110af618623604bcbe5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Departmental Request</sys_name><sys_package display_value="Dept Request" source="x_723649_dept_re_0">2cce58e61bf1c110af618623604bcb4d</sys_package><sys_policy/><sys_scope display_value="Dept Request">2cce58e61bf1c110af618623604bcb4d</sys_scope><sys_update_name>sc_cat_item_catalog_970468ae1bf1c110af618623604bcbe5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-23 16:35:16</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1248671434</payload_hash>
+        <record_name>Service Catalog.Departmental Request</record_name>
+        <reverted_from/>
+        <source>acce58e61bf1c110af618623604bcb4f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 16:35:16</sys_created_on>
+        <sys_id>db0468ae1bf1c110af618623604bcbeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f276fdc300000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 16:35:16</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>530468aeadf1c11078cfa2d1ac91c2eb</update_guid>
+        <update_guid_history>530468aeadf1c11078cfa2d1ac91c2eb:1248671434</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Departmental Request">af05ecee1bf1c110af618623604bcbdd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 16:39:39</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>396e826b5ecb42db98e38e6626a45751</sys_id>
+        <sys_metadata>970468ae1bf1c110af618623604bcbe5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Departmental Request</sys_name>
+        <sys_package display_value="Dept Request" source="x_723649_dept_re_0">2cce58e61bf1c110af618623604bcb4d</sys_package>
+        <sys_parent display_value="Departmental Request">f283ec6e1bf1c110af618623604bcb37</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">2cce58e61bf1c110af618623604bcb4d</sys_scope>
+        <sys_scope_delete display_value="">57e4f90a68fc4ffdbb74d1154b019e69</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_970468ae1bf1c110af618623604bcbe5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_970468ae1bf1c110af618623604bcbe5">db0468ae1bf1c110af618623604bcbeb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 16:39:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

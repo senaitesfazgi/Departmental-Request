@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">246ed24ba9223010c0a065f439e661f8</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 16:15:41</sys_created_on>
+        <sys_id>9c9f182a1bf1c110af618623604bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request</sys_name>
+        <sys_package display_value="Dept Request" source="x_723649_dept_re_0">2cce58e61bf1c110af618623604bcb4d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">2cce58e61bf1c110af618623604bcb4d</sys_scope>
+        <sys_update_name>sys_wizard_answer_9c9f182a1bf1c110af618623604bcbaa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 16:15:41</sys_updated_on>
+        <table/>
+        <target_url>x_723649_dept_re_0_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

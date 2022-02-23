@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="approval_group" label="Approval group" language="en" table="x_723649_dept_re_0_type">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>approval_group</element>
+            <help/>
+            <hint/>
+            <label>Approval group</label>
+            <language>en</language>
+            <name>x_723649_dept_re_0_type</name>
+            <plural>Approval groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-02-23 16:19:19</sys_created_on>
+            <sys_id>79606c6a1bf1c110af618623604bcb41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Approval group</sys_name>
+            <sys_package display_value="Dept Request" source="x_723649_dept_re_0">2cce58e61bf1c110af618623604bcb4d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dept Request">2cce58e61bf1c110af618623604bcb4d</sys_scope>
+            <sys_update_name>sys_documentation_x_723649_dept_re_0_type_approval_group_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-02-23 16:19:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
